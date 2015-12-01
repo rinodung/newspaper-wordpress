@@ -20,3 +20,6 @@ A newspaper/magazine management system built by Wordpress v4.3.1 and Newspaper T
 ----wp-includes
 
 ----wp-resources(database, theme source, plugin source, document...)
+# Demo
+https://newspaper-rinodung.c9.io/(account.info)
+
